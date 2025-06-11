@@ -3,11 +3,4 @@
 - 🌱 I’m currently learning Softwere devolopment & Web devolopment.
 
 
-<!--- - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
---->
-
-<!---
-Abir0090/Abir0090 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner/blob/master/Markdown-pages/Support.md)
