@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Abir0090
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning Softwere devolopment & Web devolopment.
+
 
 
 
